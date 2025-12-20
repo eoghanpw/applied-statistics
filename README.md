@@ -48,9 +48,9 @@ Make sure you have the following installed:
 
 Launch Jupyter Notebook from the command line.
 
-    ```bash
-    jupyter notebook
-    ```
+```bash
+jupyter notebook
+```
 
 Once Jupyter Notebook is running, it will open a new tab in your web browser. Navigate to the directory that contains [`problems.ipynb`](./problems.ipynb) and click to open it.
 
@@ -77,7 +77,7 @@ Normal distribution:
 - [Investopedia](https://www.investopedia.com/terms/n/normaldistribution.asp)
 - [khanacademy](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review)
 
-t-Tests:
+T-Tests:
 - [YouTube](https://www.youtube.com/watch?v=CIbJSX-biu0)
 - [Investopedia](https://www.investopedia.com/terms/t/t-test.asp)
 - [Wikipedia](https://en.wikipedia.org/wiki/P-value)
