@@ -1,10 +1,8 @@
 # Applied Statistics - Problems Workbook
----
 
 This workbook contains my solutions for the applied statistics module [assessment](./docs/assessment-problems.md).
 
 ## Getting Started
----
 
 Follow the below steps to run the [problems.ipynb](./problems.ipynb) Jupyter notebook.
 
@@ -58,14 +56,12 @@ Once Jupyter Notebook is running, it will open a new tab in your web browser. Na
 You can run the cells by clicking on them and pressing Ctrl + Enter or alternatively, you can use the "Run" button in the toolbar.
 
 ## Usage Examples
----
 
 ![Lady Tasting Tea Plot 1](./img/lady-tasting-tea-plot-1.png)
 
 ![Lady Tasting Tea Plot 2](./img/lady-tasting-tea-plot-2.png)
 
 ## Reference Material
----
 
 Python documentation
 - [Python documentation](https://docs.python.org/3/)
@@ -97,4 +93,5 @@ ANOVA:
 - [Statsig](https://www.statsig.com/perspectives/control-type-i-errors)
 
 ## Author
+
 Eoghan Walsh
