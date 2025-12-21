@@ -1,11 +1,12 @@
 # Applied Statistics - Problems Workbook
+---
 
-## Summary
-This workbook contains my assessment for the applied statistics module.
+This workbook contains my solutions for the applied statistics module [assessment](./docs/assessment-problems.md).
 
 ## Getting Started
+---
 
-Follow the below steps to run the [`problems.ipynb`](./problems.ipynb) Jupyter notebook.
+Follow the below steps to run the [problems.ipynb](./problems.ipynb) Jupyter notebook.
 
 ### Prerequisites
 
@@ -52,13 +53,19 @@ Launch Jupyter Notebook from the command line.
 jupyter notebook
 ```
 
-Once Jupyter Notebook is running, it will open a new tab in your web browser. Navigate to the directory that contains [`problems.ipynb`](./problems.ipynb) and click to open it.
+Once Jupyter Notebook is running, it will open a new tab in your web browser. Navigate to the directory that contains [problems.ipynb](./problems.ipynb) and click to open it.
 
 You can run the cells by clicking on them and pressing Ctrl + Enter or alternatively, you can use the "Run" button in the toolbar.
 
 ## Usage Examples
+---
+
+![Lady Tasting Tea Plot 1](./img/lady-tasting-tea-plot-1.png)
+
+![Lady Tasting Tea Plot 2](./img/lady-tasting-tea-plot-2.png)
 
 ## Reference Material
+---
 
 Python documentation
 - [Python documentation](https://docs.python.org/3/)
@@ -77,7 +84,7 @@ Normal distribution:
 - [Investopedia](https://www.investopedia.com/terms/n/normaldistribution.asp)
 - [khanacademy](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review)
 
-T-Tests:
+T-tests:
 - [YouTube](https://www.youtube.com/watch?v=CIbJSX-biu0)
 - [Investopedia](https://www.investopedia.com/terms/t/t-test.asp)
 - [Wikipedia](https://en.wikipedia.org/wiki/P-value)
